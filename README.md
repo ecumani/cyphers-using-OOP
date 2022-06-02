@@ -1,4 +1,4 @@
-# Cyphers-using-OPP
+# Cyphers-using-OOP
 There are three types of cyphers as three classes.
 
 - Ceaser
